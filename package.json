@@ -1,0 +1,24 @@
+{
+  "name": "markup-fmt-astro-scriptindent",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.12.9",
+    "sharp": "^0.34.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "dprint",
+      "esbuild"
+    ]
+  },
+  "devDependencies": {
+    "dprint": "^0.50.1"
+  }
+}
