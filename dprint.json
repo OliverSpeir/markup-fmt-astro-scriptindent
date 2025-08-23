@@ -3,7 +3,7 @@
   "markup": {},
   "excludes": ["**/node_modules"],
   "plugins": [
-    "https://plugins.dprint.dev/typescript-0.95.9.wasm",
-    "https://plugins.dprint.dev/g-plane/markup_fmt-v0.23.1.wasm"
+    "https://plugins.dprint.dev/typescript-0.95.10.wasm",
+    "https://plugins.dprint.dev/g-plane/markup_fmt-v0.23.2.wasm"
   ]
 }
